@@ -58,7 +58,7 @@ experience: 7+ anos em infraestrutura, cloud e redes
 
 <br/>
 
-[![WorldSkills](https://img.shields.io/badge/🏆_WorldSkills_Kazan_2019-Seletiva_Nacional_·_IT_Network_Systems-FF6B00?style=for-the-badge)](https://github.com/Pedr0Teixeira)
+[![WorldSkills](https://img.shields.io/badge/🥉_WorldSkills_Kazan_2019-3º_Lugar_·_Seletiva_Nacional_·_IT_Network_Systems-FF6B00?style=for-the-badge)](https://github.com/Pedr0Teixeira)
 
 </div>
 
