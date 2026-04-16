@@ -1,37 +1,111 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a0dad,100:0077b6&height=200&section=header&text=Pedro%20Teixeira&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Solutions%20Architect%20%7C%20Cloud%20%7C%20DevOps&descAlignY=55&descSize=18&descColor=d0d0ff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0077b6,100:6a0dad&height=220&section=header&text=Pedro%20Teixeira&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Cloud%20Engineer%20%7C%20DevOps%20%7C%20Networking%20%7C%20IaC&descAlignY=58&descSize=18&descColor=c8d6e5" />
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0077B6&center=true&vCenter=true&width=600&lines=☁️+Oracle+Cloud+Infrastructure+(OCI);🔧+Terraform+%7C+IaC+%7C+Automation;🌐+Networking+%7C+VPN+%7C+DRG+%7C+VCN;🐳+Docker+%7C+Kubernetes+%7C+DevOps;🐍+Python+%7C+FastAPI+%7C+Backend)](https://git.io/typing-svg)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-teixeira20/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/p3dro.teixeira/)
+[![Profile Views](https://komarev.com/ghpvc/?username=Pedr0Teixeira&style=for-the-badge&color=0077b6&label=PROFILE+VIEWS)](https://github.com/Pedr0Teixeira)
 
 </div>
 
-###
+---
+
+## 👨‍💻 Sobre mim
+
+```yaml
+name: Pedro Teixeira
+location: Maceió, Alagoas - Brasil
+focus:
+  - Cloud Engineering (OCI)
+  - DevOps & Automation
+  - Networking & Infrastructure
+  - Infrastructure as Code (Terraform)
+currently_building: oci-docgen — geração automática de documentação de infraestrutura OCI
+```
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pedr0Teixeira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=true" height="150px" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=Pedr0Teixeira&locale=pt_BR&mode=weekly&theme=dracula&hide_border=true&border_radius=5" height="150px" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pedr0Teixeira&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&rank_icon=github" height="160px" />
+  <img src="https://streak-stats.demolab.com?user=Pedr0Teixeira&mode=weekly&theme=dracula&hide_border=true&border_radius=5&locale=pt_BR" height="160px" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pedr0Teixeira&locale=pt-br&hide_title=false&layout=compact&card_width=400&langs_count=6&theme=dracula&hide_border=true" height="150px" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pedr0Teixeira&layout=compact&langs_count=6&theme=dracula&hide_border=true&card_width=500" height="140px" />
 </div>
 
-###
+---
+
+## 🏆 Conquistas
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pedr0Teixeira&theme=dracula&no-frame=true&no-bg=true&row=1&column=6" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Pedr0Teixeira&theme=dracula&no-frame=false&margin-w=8&margin-h=8&column=6" />
 </div>
 
-###
+---
 
-<p align="left">
-☁️ <strong>Solutions Architect</strong> com foco em Cloud Infrastructure e OCI (Oracle Cloud Infrastructure)<br>
-🔧 Especialista em <strong>Terraform, IaC, Automação e DevOps</strong><br>
-🚀 Criador do <a href="https://github.com/Pedr0Teixeira/oci-docgen"><strong>oci-docgen</strong></a> — documentação técnica completa de infraestrutura OCI gerada em minutos<br>
-🌐 Experiência em <strong>Networking, Segurança e Arquitetura de Soluções</strong><br>
-📍 Maceió, Alagoas, Brasil
+## 📈 Atividade
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pedr0Teixeira&theme=dracula&hide_border=true&area=true&area_color=0077b6" width="95%" />
+</div>
+
+---
+
+## 🛠️ Stack
+
+**☁️ Cloud & Infrastructure**
+
+<p>
+  <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-<br clear="both">
+**💻 Linguagens & Frameworks**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+</p>
+
+**🔧 Tools & DevOps**
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
+
+---
+
+## 🚀 Projeto em Destaque
+
+<div align="center">
+
+[![oci-docgen](https://github-readme-stats.vercel.app/api/pin/?username=Pedr0Teixeira&repo=oci-docgen&theme=dracula&hide_border=true)](https://github.com/Pedr0Teixeira/oci-docgen)
+
+> Gera documentação técnica completa de infraestrutura OCI em minutos — Compute, Networking, Storage, OKE, DBaaS, WAF e muito mais.
+
+</div>
+
+---
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pedr0Teixeira/Pedr0Teixeira/output/github-contribution-grid-snake-dark.svg" />
@@ -39,30 +113,6 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/Pedr0Teixeira/Pedr0Teixeira/output/github-contribution-grid-snake.svg" />
 </picture>
 
-###
+</div>
 
-<h2 align="center">Tecnologias que utilizo</h2>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,terraform,docker,linux,git,redis,nginx,fastapi,sqlite&theme=dark" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
-</p>
-
-###
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/pedro-teixeira20/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/p3dro.teixeira/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077b6,100:6a0dad&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a0dad,100:0077b6&height=100&section=footer" />
