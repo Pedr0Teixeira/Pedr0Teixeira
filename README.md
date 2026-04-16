@@ -62,14 +62,68 @@ experience: 7+ anos em infraestrutura, cloud e redes
 
 ## 📜 Certificações
 
-<div align="center">
+**☁️ Oracle Cloud Infrastructure**
 
-<img src="https://img.shields.io/badge/OCI_2025-Generative_AI_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-<img src="https://img.shields.io/badge/OCI_2025-Observability_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-<img src="https://img.shields.io/badge/Gravityzone-Business_Security-00A4EF?style=for-the-badge&logo=bitdefender&logoColor=white" />
-<img src="https://img.shields.io/badge/Shell_Scripting-Formação-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+<p>
+  <img src="https://img.shields.io/badge/OCI_2025-Networking_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/OCI_2025-DevOps_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/OCI_2025-Multicloud_Architect_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/OCI_2025-Migration_Architect_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/OCI_2025-Generative_AI_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/OCI_2025-Observability_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle_DB@AWS-Architect_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/OCI_2025-AI_Foundations_Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/OCI-Kubernetes_Engine_Specialist-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+</p>
 
-</div>
+**🔒 Security**
+
+<p>
+  <img src="https://img.shields.io/badge/Sophos-Firewall_Certified_Engineer_v22-0033A0?style=for-the-badge&logo=sophos&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fortinet-NSE_3_Network_Security_Associate-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fortinet-NSE_2_Network_Security_Associate-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fortinet-NSE_1_Network_Security_Associate-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bitdefender-Gravityzone_Enterprise-00A4EF?style=for-the-badge&logo=bitdefender&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bitdefender-Gravityzone_Premium-00A4EF?style=for-the-badge&logo=bitdefender&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bitdefender-Gravityzone_Business-00A4EF?style=for-the-badge&logo=bitdefender&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-Security_Fundamentals-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+</p>
+
+**🌐 Networking**
+
+<p>
+  <img src="https://img.shields.io/badge/Juniper-JNCIA--Junos-84B135?style=for-the-badge&logo=junipernetworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mikrotik-MTCRE-CC0000?style=for-the-badge&logo=mikrotik&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mikrotik-MTCNA-CC0000?style=for-the-badge&logo=mikrotik&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hurricane_Electric-IPv6_Certified-009BDE?style=for-the-badge&logo=cisco&logoColor=white" />
+</p>
+
+<details>
+<summary><b>🎓 Ver todas as certificações</b></summary>
+
+<br/>
+
+**Microsoft MTA**
+
+<p>
+  <img src="https://img.shields.io/badge/MTA-Networking_Fundamentals_(98--366)-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/MTA-Security_Fundamentals_(98--367)-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/MTA-Cloud_Fundamentals_(98--369)-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/MTA-Windows_OS_Fundamentals_(98--349)-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/MTA-Mobility_%26_Device_(98--368)-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+</p>
+
+**📋 Gestão & Outros**
+
+<p>
+  <img src="https://img.shields.io/badge/Certiprof-Scrum_Foundation_(SFPC™)-009BDE?style=for-the-badge&logo=scrumalliance&logoColor=white" />
+  <img src="https://img.shields.io/badge/Alura-ITIL_Foundations_v3-ED1C24?style=for-the-badge&logo=alura&logoColor=white" />
+  <img src="https://img.shields.io/badge/Alura-Shell_Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Udemy-Zabbix_Avançado-A435F0?style=for-the-badge&logo=udemy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Alura-OCI_IaC_%26_Database-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+</p>
+
+</details>
 
 <br/>
 
