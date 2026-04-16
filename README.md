@@ -56,6 +56,10 @@ experience: 7+ anos em infraestrutura, cloud e redes
 [![Quickdraw](https://img.shields.io/badge/⚡_Quickdraw-achieved-f0a500?style=for-the-badge)](https://github.com/Pedr0Teixeira)
 [![YOLO](https://img.shields.io/badge/🎯_YOLO-achieved-e63946?style=for-the-badge)](https://github.com/Pedr0Teixeira)
 
+<br/>
+
+[![WorldSkills](https://img.shields.io/badge/🏆_WorldSkills_Kazan_2019-Seletiva_Nacional_·_IT_Network_Systems-FF6B00?style=for-the-badge)](https://github.com/Pedr0Teixeira)
+
 </div>
 
 <br/>
