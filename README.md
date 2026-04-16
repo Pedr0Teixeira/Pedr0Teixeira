@@ -1,14 +1,24 @@
-<h1 align="center">
-  Pedro Teixeira
-  <img style="height: 50px; display: inline;" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTgzam1iZmxseWdsbGZsYnAxZjRsa21wajhhbXF5aWIwM2FwMWJxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XWR4jehW2X2E0/giphy.gif">
-</h1>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a0dad,100:0077b6&height=200&section=header&text=Pedro%20Teixeira&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Solutions%20Architect%20%7C%20Cloud%20%7C%20DevOps&descAlignY=55&descSize=18&descColor=d0d0ff" />
+
+</div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pedr0Teixeira&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=true" height="130px" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=Pedr0Teixeira&locale=pt_BR&mode=weekly&theme=dracula&hide_border=true&border_radius=5" height="130px" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pedr0Teixeira&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="130px" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pedr0Teixeira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=true" height="150px" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=Pedr0Teixeira&locale=pt_BR&mode=weekly&theme=dracula&hide_border=true&border_radius=5" height="150px" alt="streak graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pedr0Teixeira&locale=pt-br&hide_title=false&layout=compact&card_width=400&langs_count=6&theme=dracula&hide_border=true" height="150px" alt="languages graph" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Pedr0Teixeira&theme=dracula&no-frame=true&no-bg=true&row=1&column=6" alt="trophies" />
 </div>
 
 ###
@@ -54,3 +64,5 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077b6,100:6a0dad&height=100&section=footer" />
