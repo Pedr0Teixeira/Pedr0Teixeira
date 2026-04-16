@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0077b6,100:6a0dad&height=220&section=header&text=Pedro%20Teixeira&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=DevOps%20%26%20Cloud%20Specialist%20%7C%20IaC%20·%20Security%20·%20Networking&descAlignY=58&descSize=18&descColor=c8d6e5" />
+<h1>Pedro Teixeira</h1>
+<p><em>DevOps & Cloud Specialist | IaC · Security · Networking</em></p>
 
 <br/>
 
@@ -222,4 +223,3 @@ experience: 7+ anos em infraestrutura, cloud e redes
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a0dad,100:0077b6&height=100&section=footer" />
