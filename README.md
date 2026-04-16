@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0077b6,100:6a0dad&height=220&section=header&text=Pedro%20Teixeira&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Cloud%20Engineer%20%7C%20DevOps%20%7C%20Networking%20%7C%20IaC&descAlignY=58&descSize=18&descColor=c8d6e5" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0077b6,100:6a0dad&height=220&section=header&text=Pedro%20Teixeira&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=DevOps%20%26%20Cloud%20Specialist%20%7C%20IaC%20·%20Security%20·%20Networking&descAlignY=58&descSize=18&descColor=c8d6e5" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0077B6&center=true&vCenter=true&width=650&lines=☁️+OCI+%7C+AWS+%7C+GCP+%7C+Azure+%7C+Magalu+Cloud;🔧+Terraform+%7C+IaC+%7C+Automation;🌐+Networking+%7C+VPN+%7C+Firewall+%7C+Load+Balancer;🐳+Docker+%7C+Kubernetes+%7C+DevOps;🐍+Python+%7C+FastAPI+%7C+Backend)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0077B6&center=true&vCenter=true&width=650&lines=☁️+OCI+·+AWS+·+GCP+·+Azure+·+Magalu+Cloud;🔧+Terraform+·+IaC+·+Automation+·+ArgoCD;🌐+Networking+·+BGP+·+MPLS+·+VPN+·+SD-WAN;🔒+DevSecOps+·+Firewall+·+FortiGate+·+Sophos;🐳+Docker+·+Kubernetes+(OKE)+·+CI%2FCD;🐍+Python+·+FastAPI+·+Backend)](https://git.io/typing-svg)
 
 <br/>
 
@@ -20,13 +20,16 @@
 
 ```yaml
 name: Pedro Teixeira
+title: DevOps & Cloud Specialist | IaC · Security · Networking
 location: Maceió, Alagoas - Brasil
 focus:
   - Multi-Cloud Engineering (OCI, AWS, GCP, Azure, MGC)
-  - DevOps & Automation
-  - Networking & Infrastructure
-  - Infrastructure as Code (Terraform)
+  - Infrastructure as Code (Terraform · IaC)
+  - DevSecOps & Network Security
+  - BGP · OSPF · MPLS · SD-WAN · VPN
+  - Containerization (Docker · Kubernetes · OKE)
 currently_building: oci-docgen — geração automática de documentação de infraestrutura OCI
+experience: 7+ anos em infraestrutura, cloud e redes
 ```
 
 <br/>
@@ -52,6 +55,19 @@ currently_building: oci-docgen — geração automática de documentação de in
 [![Pair Extraordinaire](https://img.shields.io/badge/👥_Pair_Extraordinaire-achieved-6a0dad?style=for-the-badge)](https://github.com/Pedr0Teixeira)
 [![Quickdraw](https://img.shields.io/badge/⚡_Quickdraw-achieved-f0a500?style=for-the-badge)](https://github.com/Pedr0Teixeira)
 [![YOLO](https://img.shields.io/badge/🎯_YOLO-achieved-e63946?style=for-the-badge)](https://github.com/Pedr0Teixeira)
+
+</div>
+
+<br/>
+
+## 📜 Certificações
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/OCI_2025-Generative_AI_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/OCI_2025-Observability_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/Gravityzone-Business_Security-00A4EF?style=for-the-badge&logo=bitdefender&logoColor=white" />
+<img src="https://img.shields.io/badge/Shell_Scripting-Formação-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
 
 </div>
 
@@ -83,8 +99,26 @@ currently_building: oci-docgen — geração automática de documentação de in
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+</p>
+
+**🔒 Security & Networking**
+
+<p>
+  <img src="https://img.shields.io/badge/FortiGate-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sophos-0033A0?style=for-the-badge&logo=sophos&logoColor=white" />
+  <img src="https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge&logo=openvpn&logoColor=white" />
+  <img src="https://img.shields.io/badge/PFSense-212121?style=for-the-badge&logo=pfsense&logoColor=white" />
+</p>
+
+**📡 Monitoramento & Observabilidade**
+
+<p>
+  <img src="https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
 </p>
 
 **💻 Linguagens & Frameworks**
