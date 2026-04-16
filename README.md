@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0077B6&center=true&vCenter=true&width=600&lines=☁️+Oracle+Cloud+Infrastructure+(OCI);🔧+Terraform+%7C+IaC+%7C+Automation;🌐+Networking+%7C+VPN+%7C+DRG+%7C+VCN;🐳+Docker+%7C+Kubernetes+%7C+DevOps;🐍+Python+%7C+FastAPI+%7C+Backend)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0077B6&center=true&vCenter=true&width=650&lines=☁️+OCI+%7C+AWS+%7C+GCP+%7C+Azure+%7C+Magalu+Cloud;🔧+Terraform+%7C+IaC+%7C+Automation;🌐+Networking+%7C+VPN+%7C+Firewall+%7C+Load+Balancer;🐳+Docker+%7C+Kubernetes+%7C+DevOps;🐍+Python+%7C+FastAPI+%7C+Backend)](https://git.io/typing-svg)
 
 <br/>
 
@@ -14,7 +14,7 @@
 
 </div>
 
----
+<br/>
 
 ## 👨‍💻 Sobre mim
 
@@ -22,14 +22,14 @@
 name: Pedro Teixeira
 location: Maceió, Alagoas - Brasil
 focus:
-  - Cloud Engineering (OCI)
+  - Multi-Cloud Engineering (OCI, AWS, GCP, Azure, MGC)
   - DevOps & Automation
   - Networking & Infrastructure
   - Infrastructure as Code (Terraform)
 currently_building: oci-docgen — geração automática de documentação de infraestrutura OCI
 ```
 
----
+<br/>
 
 ## 📊 GitHub Stats
 
@@ -42,15 +42,20 @@ currently_building: oci-docgen — geração automática de documentação de in
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pedr0Teixeira&layout=compact&langs_count=6&theme=dracula&hide_border=true&card_width=500" height="140px" />
 </div>
 
----
+<br/>
 
-## 🏆 Conquistas
+## 🏅 Conquistas
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pedr0Teixeira&theme=dracula&no-frame=false&margin-w=8&margin-h=8&column=6" />
+
+[![Pull Shark](https://img.shields.io/badge/🦈_Pull_Shark-×2-1a7abf?style=for-the-badge)](https://github.com/Pedr0Teixeira)
+[![Pair Extraordinaire](https://img.shields.io/badge/👥_Pair_Extraordinaire-achieved-6a0dad?style=for-the-badge)](https://github.com/Pedr0Teixeira)
+[![Quickdraw](https://img.shields.io/badge/⚡_Quickdraw-achieved-f0a500?style=for-the-badge)](https://github.com/Pedr0Teixeira)
+[![YOLO](https://img.shields.io/badge/🎯_YOLO-achieved-e63946?style=for-the-badge)](https://github.com/Pedr0Teixeira)
+
 </div>
 
----
+<br/>
 
 ## 📈 Atividade
 
@@ -58,18 +63,28 @@ currently_building: oci-docgen — geração automática de documentação de in
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pedr0Teixeira&theme=dracula&hide_border=true&area=true&area_color=0077b6" width="95%" />
 </div>
 
----
+<br/>
 
 ## 🛠️ Stack
 
-**☁️ Cloud & Infrastructure**
+**☁️ Cloud Providers**
 
 <p>
   <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Magalu_Cloud-0086FF?style=for-the-badge&logo=icloud&logoColor=white" />
+</p>
+
+**🔩 Infrastructure & DevOps**
+
+<p>
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" />
 </p>
 
 **💻 Linguagens & Frameworks**
@@ -81,17 +96,16 @@ currently_building: oci-docgen — geração automática de documentação de in
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
 </p>
 
-**🔧 Tools & DevOps**
+**🔧 Ferramentas**
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
----
+<br/>
 
 ## 🚀 Projeto em Destaque
 
@@ -103,7 +117,7 @@ currently_building: oci-docgen — geração automática de documentação de in
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
