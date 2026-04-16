@@ -90,6 +90,7 @@ experience: 7+ anos em infraestrutura, cloud e redes
   <img src="https://img.shields.io/badge/Bitdefender-Gravityzone_Enterprise-00A4EF?style=for-the-badge&logo=bitdefender&logoColor=white" />
   <img src="https://img.shields.io/badge/Bitdefender-Gravityzone_Premium-00A4EF?style=for-the-badge&logo=bitdefender&logoColor=white" />
   <img src="https://img.shields.io/badge/Bitdefender-Gravityzone_Business-00A4EF?style=for-the-badge&logo=bitdefender&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner_(CLF--C02)-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-Security_Fundamentals-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
 </p>
 
